@@ -14,3 +14,5 @@
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 </div>
+
+![snake gif](https://github.com/ThikerBlow/ThikerBlow/blob/output/github-contribution-grid-snake.svg)
