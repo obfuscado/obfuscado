@@ -1,7 +1,7 @@
 <h1> Hi! My name is Thiago. </h1>
 
 <div align="center">
-  <a href="https://github.com/thikerblow">
+  <a href="https://github.com/obfuscado">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=thikerblow&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
  <br>
@@ -15,4 +15,4 @@
 </div>
 </div>
 
-![snake gif](https://github.com/ThikerBlow/ThikerBlow/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/obfuscado/obfuscado/blob/output/github-contribution-grid-snake.svg)
