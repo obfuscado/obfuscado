@@ -2,11 +2,11 @@
 
 <div align="center">
   <a href="https://github.com/obfuscado">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=thikerblow&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=obfuscado&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
  <br>
     <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thikerblow&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obfuscado&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div  align="center"> 
   <div style="display: inline_block"><br>
